@@ -1,7 +1,7 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Home from './components/Home/Home';
-import Features from './components/Home/Features';
+
 
 import About from './components/About/About';
 import Navbar from'./components/Navbar/navbar';
