@@ -43,7 +43,7 @@ const Features = () => {
                             <div className="col-lg-4 col-12 col-md-6 col-sm-6 mb-5" >
                                 <div className="product">
                                     <div className="product-wrap">
-                                        <a><img className="img-fluid w-100 mb-3 img-first" src={Amala} alt="product-img" /></a>
+                                        <a href="products"><img className="img-fluid w-100 mb-3 img-first" src={Amala} alt="product-img" /></a>
                                     </div>
                                     <span className="onsale">Sale</span>
                                     <div className="product-hover-overlay">
@@ -61,7 +61,7 @@ const Features = () => {
                             <div className="col-lg-4 col-12 col-md-6 col-sm-6 mb-5">
                                 <div className="product">
                                     <div className="product-wrap">
-                                        <a><img className="img-fluid w-100 mb-3 img-first" src={CoconutRice} alt="product-img" /></a>
+                                        <a href="products"><img className="img-fluid w-100 mb-3 img-first" src={CoconutRice} alt="product-img" /></a>
                                     </div>
                                     <div className="product-hover-overlay">
                                         <a href="#"><i className="tf-ion-android-cart"></i></a>
@@ -78,7 +78,7 @@ const Features = () => {
                             <div className="col-lg-4 col-12 col-md-6 col-sm-6 mb-5" >
                                 <div className="product">
                                     <div className="product-wrap">
-                                        <a><img className="img-fluid w-100 mb-3 img-first" src={FriedRice} alt="product-img" /></a>
+                                        <a href="products"><img className="img-fluid w-100 mb-3 img-first" src={FriedRice} alt="product-img" /></a>
                                     </div>
                                     <span className="onsale">Sale</span>
                                     <div className="product-hover-overlay">
