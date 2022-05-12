@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+.home {
+ 
+  text-align: center;
+}
+
+.home h3{
+  color: rgb(48, 44, 32);
+  margin-top: 0em;
+  padding-top: 1em;
+  font-size: 4em;
+}
+
+.home h1{
+  color: rgb(214, 170, 51);
+  font-size: 10em;
+}
+
+.home h2{
+  font-size: 4em;
+}
+
+.carousel-inner img{
+  width: 400px;
+  height: 500px;
+=======
+.home {
+  height: 100vh;
+  text-align: center;
+}
+
+.home h3{
+  color: rgb(48, 44, 32);
+  margin-top: 0em;
+  padding-top: 1em;
+  font-size: 4em;
+}
+
+.home h1{
+  color: rgb(214, 170, 51);
+  font-size: 10em;
+}
+
+.home h2{
+  font-size: 4em;
+}
+
+.carousel-inner img{
+  width: 400px;
+  height: 500px;
+>>>>>>> cd8196ff4f196be23b7b3756cdbd09db32644d95
+}

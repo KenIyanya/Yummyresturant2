@@ -1,0 +1,14 @@
+.footerContainer {
+  background-color: rgb(3, 44, 44);
+  text-align: center;
+  color: #fff;
+  margin-top: 2em;
+ 
+  padding-bottom: 2rem;
+}
+
+.footerContainer .copyright {
+  margin-bottom: .2rem;
+  color: #fff;
+  padding-top: 10px;
+}
