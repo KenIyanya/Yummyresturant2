@@ -9,13 +9,13 @@ import { Link } from 'react-router-dom'
 
 const navbar = () => {
   return (
-    <div>
+    <div className='container-fluid'>
 
 
     
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand js-scroll title-left" href="/">Yummy Restaurant</a>
+          <a class="navbar-brand js-scroll title-left" href="/">Yummy Rest</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
