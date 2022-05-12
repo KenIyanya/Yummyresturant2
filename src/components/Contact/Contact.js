@@ -22,7 +22,7 @@ const Contact = () => {
                                     </h5>
                                 </div>
                                 <div>
-                                    <form method="post" role="form" className="contactForm">
+                                    <form  className="contactForm">
                                         <div id="sendmessage">Your message has been sent. Thank you!</div>
                                         <div id="errormessage"></div>
                                         <div className="row">

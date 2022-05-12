@@ -3,12 +3,11 @@ import React from 'react';
 import './Features.css';
 
 import Amala from '../../assets/images/amala.jpg';
-//import Abula from '../../assets/images/abula.jpg';
+
 import FriedRice from '../../assets/images/fried rice.jpg';
-import Jollof from '../../assets/images/jollof.jpg';
+
 import CoconutRice from '../../assets/images/coconutrice.jpg';
-import Fufu from '../../assets/images/fufu.jpg';
-import GrilledMeat from '../../assets/images/meat.png';
+
 
 
 
